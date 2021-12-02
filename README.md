@@ -12,4 +12,6 @@ It’s very difficult for everyone to find out jobs, internship etc. on the basi
 So, as I mentioned the basic idea. We are suggesting the job on the basics of the skills of the person. It has many benefits that we have not to check each and every posting of jobs so it consumes less time. Just we have to provide the input, i.e., the skills and output, i.e., the suggested jobs will be shown on the UI or on the local host.
 
 
+#### 🔴 Detailed Video: 
 
+[![Alt text](https://user-images.githubusercontent.com/34673684/144439771-d735ebdf-15c8-450a-b055-1340d6615090.png)](https://www.youtube.com/watch?v=X83cDfwtFpw)
